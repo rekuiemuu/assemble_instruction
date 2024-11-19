@@ -1,6 +1,3 @@
-
-
-```markdown
 # UVM Assembler
 
 This project assembles instructions into binary code for use with a UVM (virtual machine).
